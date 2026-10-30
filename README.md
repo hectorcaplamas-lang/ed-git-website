@@ -4,7 +4,7 @@ The company focuses its work on building software both for third parties or pers
 
 Website of *INVENTEDCOMPANY123*, a software company.
 
-Technologies used:
+# Technologies used:
 - HTML
 - CSS
 
@@ -12,4 +12,6 @@ In order to open it, do the following:
 1. Clone the repository.
 2. Open "Index.html" in the browser.
 
-The online version is not yet ready to use. 
+# Link
+
+https://hectorcaplamas-lang.github.io/ed-git-website/
